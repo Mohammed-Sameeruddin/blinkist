@@ -1,0 +1,305 @@
+
+7src_components_organisms_Header_Header_tsx_38_30_A_11_0y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsx& &($"s2_1*î>
+s2_1
+<synthetic> (›˜
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsx' /(
+	%object_0Object"Object°
+­
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsx( (( 
+
+	%object_0Object"	
+display"__id*
+flexµ
+²
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsx) )(&
+
+	%object_0Object"
+flexDirection"__id*
+row»
+¸
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsx* *((
+
+	%object_0Object"
+backgroundColor"__id*	
+#ffffff¬
+©
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsx+ +(
+
+	%object_0Object"
+gap"__id*
+40px¯
+¬
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsx, ,(
+
+	%object_0Object"
+height"__id*
+86px±
+®
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsx- -(
+
+	%object_0Object"
+margin"__id*
+
+0 auto¯
+¬
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsx. .(
+
+	%object_0Object"
+width"__id*	
+912px›˜
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsx0 4(
+	%object_1Object"Object²
+¯
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsx1 1(
+
+	%object_1Object"
+width"__id*
+
+124.09px¯
+¬
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsx2 2(
+
+	%object_1Object"
+height"__id*
+26px´
+±
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsx3 3("
+
+	%object_1Object"
+	alignSelf"__id*
+
+center›˜
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsx< >(
+	%object_2Object"ObjectÂ
+¿
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsx= =('%
+
+	%object_2Object"
+borderBottom"__id*
+1px solid #22C870›˜
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsx5 ?(
+	%object_3Object"Object´
+±
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsx6 6("
+
+	%object_3Object"
+	alignSelf"__id*
+
+center±
+®
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsx7 7(
+
+	%object_3Object"
+color"__id*	
+#03314B·
+´
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsx8 8(#
+
+	%object_3Object"
+
+fontFamily"__id*
+
+Cera Pro±
+®
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsx9 9(!
+
+	%object_3Object"
+
+fontSize"__id*
+16px³
+°
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsx: :(#
+
+	%object_3Object"
+
+lineHeight"__id*
+20px²
+¯
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsx; ;(
+
+	%object_3Object"
+cursor"__id*	
+pointer½
+º
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsx< >( 
+
+	%object_3Object"	
+&:hover"__id*
+
+	%object_2Object›˜
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsxB D(
+	%object_4Object"ObjectÂ
+¿
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsxC C('%
+
+	%object_4Object"
+borderBottom"__id*
+1px solid #22C870›˜
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsx@ E(
+	%object_5Object"Object´
+±
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsxA A("
+
+	%object_5Object"
+	alignSelf"__id*
+
+center½
+º
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsxB D( 
+
+	%object_5Object"	
+&:hover"__id*
+
+	%object_4Object›˜
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsxF I(
+	%object_6Object"Object³
+°
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsxG G(#
+
+	%object_6Object"
+
+marginLeft"__id*
+auto´
+±
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsxH H("
+
+	%object_6Object"
+	alignSelf"__id*
+
+center›˜
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsxJ
+ Q(
+	%object_7Object"Objectµ
+²
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsxK K(!
+
+	%object_7Object"
+
+position"__id*
+
+absolute¯
+¬
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsxL L(
+
+	%object_7Object"
+right"__id*	
+400px°
+­
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsxM M( 
+
+	%object_7Object"	
+display"__id*
+flex¸
+µ
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsxN N(&
+
+	%object_7Object"
+flexDirection"__id*
+
+column«
+¨
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsxO O(
+
+	%object_7Object"
+gap"__id*
+8px¬
+©
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsxP P(
+
+	%object_7Object"
+zIndex"__id*
+3›˜
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsx&$ R(
+	%object_8Object"Objectº
+·
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsx' /(
+
+	%object_8Object"
+root"__id*
+
+	%object_0Objectº
+·
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsx0 4(
+
+	%object_8Object"
+logo"__id*
+
+	%object_1Object½
+º
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsx5 ?( 
+
+	%object_8Object"	
+library"__id*
+
+	%object_3Object½
+º
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsx@ E( 
+
+	%object_8Object"	
+explore"__id*
+
+	%object_5Object½
+º
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsxF I( 
+
+	%object_8Object"	
+account"__id*
+
+	%object_6Object¼
+¹
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsxJ Q(
+
+	%object_8Object"
+logout"__id*
+
+	%object_7Object"’
+y
+o/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsx&$ R(
+
+	%object_8Object:
+%envB 
