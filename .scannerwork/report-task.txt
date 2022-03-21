@@ -1,0 +1,7 @@
+organization=mohammed-sameeruddin
+projectKey=Mohammed-Sameeruddin_blinkist
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.27701
+dashboardUrl=https://sonarcloud.io/dashboard?id=Mohammed-Sameeruddin_blinkist
+ceTaskId=AX-sdZm1kHQLb2MsTyWD
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AX-sdZm1kHQLb2MsTyWD

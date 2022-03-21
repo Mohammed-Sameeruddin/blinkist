@@ -1,4 +1,4 @@
-import { render, screen } from "@testing-library/react";
+import { fireEvent, render, screen } from "@testing-library/react";
 import SearchBar from "./SearchBar";
 
 describe("Search Bar test", () => {
@@ -7,6 +7,7 @@ describe("Search Bar test", () => {
     const searchElement = screen.getByPlaceholderText(
       "Search by title or author"
     );
-    expect(searchElement).toBeInTheDocument();
+    fireEvent.change(searchElement, { target: { value: "searching" } });
+    expect(searchElement).toHaveValue("searching");
   });
 });

@@ -8,7 +8,7 @@
       "time": "13-min read",
       "read": "1.9k reads",
       "state": {
-        "isFinished": true,
+        "isFinished": false,
         "isTrending": false,
         "isFeatured": false,
         "justAdded": false
@@ -134,7 +134,7 @@
       "read": "1.9k reads",
       "image": "images/coverImages/beyondEntrepreneurship.svg",
       "state": {
-        "isFinished": true,
+        "isFinished": false,
         "isTrending": true,
         "justAdded": false,
         "isFeatured": true

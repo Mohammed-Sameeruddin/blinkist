@@ -7,4 +7,10 @@ describe("Book View test", () => {
     const buttonElement = screen.getByText(/Finished/i);
     expect(buttonElement).toBeInTheDocument();
   });
+
+  test("Should display read now button", () => {
+    render(<BookView />);
+    const readNow = screen.getByText(/Read now/i);
+    expect(readNow).toBeInTheDocument();
+  });
 });

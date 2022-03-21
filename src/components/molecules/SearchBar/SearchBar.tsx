@@ -1,3 +1,4 @@
+import { useState } from "react";
 import { Container, Box, styled } from "@mui/material";
 import { makeStyles } from "@mui/styles";
 import Search from "../../../images/search.svg";
@@ -27,6 +28,8 @@ const ImageStyled = styled("div")({
 });
 
 const SearchBar = () => {
+  const [search, setSearch] = useState("");
+  console.log(search);
   const style = useStyles();
   return (
     <>
@@ -40,6 +43,7 @@ const SearchBar = () => {
               type="text"
               placeholder="Search by title or author"
               className={style.input}
+              onChange={e => setSearch(e.target.value)}
             />
           </SearchStyle>
         </Box>

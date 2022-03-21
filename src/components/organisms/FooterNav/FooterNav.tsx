@@ -1,4 +1,4 @@
-import styled from "@mui/styles/styled/styled";
+import styled from "@mui/styles/styled";
 import { createTheme, ThemeProvider } from "@mui/material";
 import Typography from "../../atoms/Typography/Typography";
 

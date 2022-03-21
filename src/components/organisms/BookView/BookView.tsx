@@ -92,7 +92,6 @@ const BookView = () => {
       setBookData(mydata[9]);
     };
     getData();
-    console.log(bookData);
   }, [bookData]);
 
   let hoverStyle;
