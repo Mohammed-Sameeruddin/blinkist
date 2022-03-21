@@ -19,6 +19,7 @@
     "axios": "^0.26.1",
     "classnames": "^2.3.1",
     "eslint-config-zemoso": "^1.0.3",
+    "jest-sonar-reporter": "^2.0.0",
     "json-server": "^0.17.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
@@ -36,7 +37,8 @@
     "eject": "react-scripts eject",
     "storybook": "start-storybook -p 6006 -s public",
     "build-storybook": "build-storybook -s public",
-    "build-static-webapp": "expo build:web"
+    "build-static-webapp": "expo build:web",
+    "coverage": "CI=true npm test -- --coverage --testResultsProcessor=jest-sonar-reporter"
   },
   "eslintConfig": {
     "extends": [

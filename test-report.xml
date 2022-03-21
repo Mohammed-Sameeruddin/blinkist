@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/BookTab/BookTab.test.tsx">
+    <testCase name="Display Book Tab activate second tab when clicked" duration="731"/>
+  </file>
+  <file path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/FooterNav/FooterNav.test.tsx">
+    <testCase name="Footer Nav test should display editorial nav items" duration="470"/>
+    <testCase name="Footer Nav test should display useful links nav items" duration="146"/>
+    <testCase name="Footer Nav test should display company nav items" duration="95"/>
+  </file>
+  <file path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/molecules/SearchBar/SearchBar.test.tsx">
+    <testCase name="Search Bar test Display search bar" duration="711"/>
+  </file>
+  <file path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Footer/Footer.test.tsx">
+    <testCase name="Footer test logo should be display" duration="1056"/>
+  </file>
+  <file path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/App.test.tsx">
+    <testCase name="renders learn react link" duration="144"/>
+  </file>
+  <file path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Tab/LabTabs.test.tsx">
+    <testCase name="Lab tab test should toggle between the tabs" duration="1757"/>
+  </file>
+  <file path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Card/Card.test.tsx">
+    <testCase name="Card Test Should display image" duration="644"/>
+    <testCase name="Card Test Should display Finished Button" duration="127"/>
+    <testCase name="Card Test Should display Read Again Button" duration="244"/>
+    <testCase name="Card Test Should display add to library Button" duration="943"/>
+  </file>
+  <file path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/BookView/BookView.test.tsx">
+    <testCase name="Book View test Button style" duration="1730"/>
+    <testCase name="Book View test Should display read now button" duration="705"/>
+  </file>
+  <file path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/molecules/AddButton/AddButton.test.tsx">
+    <testCase name="Add Button test Should display typgraphy" duration="419"/>
+    <testCase name="Add Button test Should display icon with typography" duration="609"/>
+  </file>
+  <file path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/atoms/Logo/Logo.test.tsx">
+    <testCase name="Should display logo Display logo" duration="123"/>
+  </file>
+  <file path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/atoms/Typography/Typography.test.tsx">
+    <testCase name="Display text Should be heading" duration="178"/>
+    <testCase name="Display text Should be body" duration="39"/>
+    <testCase name="Display text Should be subtitle" duration="36"/>
+    <testCase name="Display text Should be caption" duration="37"/>
+  </file>
+  <file path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/molecules/IconWithTypography/IconWithTypography.test.tsx">
+    <testCase name="Icon with Typography tests Add icon with Typography" duration="402"/>
+  </file>
+  <file path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/ExtendedNav/ExtendedNav.test.tsx">
+  </file>
+  <file path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/molecules/Dropdown/Dropdown.test.tsx">
+    <testCase name="Dropdown testing Explore dropdown" duration="472"/>
+    <testCase name="Dropdown testing Account dropdown" duration="241"/>
+  </file>
+  <file path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/atoms/Icons/IconButtonComponent.test.tsx">
+    <testCase name="Icon Button Render Search Button" duration="627"/>
+    <testCase name="Icon Button Render dropdown" duration="113"/>
+  </file>
+  <file path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Banner/Banner.test.tsx">
+    <testCase name="Display banner Should be display" duration="168"/>
+  </file>
+</testExecutions>
