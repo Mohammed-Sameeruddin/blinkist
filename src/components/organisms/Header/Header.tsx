@@ -152,6 +152,7 @@ const Header = () => {
               </>
             ) : (
               <AddButton
+                role="login"
                 onClick={() => {
                   localStorage.setItem("login", "true");
                   loginWithRedirect();

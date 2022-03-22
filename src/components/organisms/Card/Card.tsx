@@ -24,6 +24,7 @@ interface CardProps {
   readAgain?: boolean;
   onClick?: () => void;
   value: number;
+  role?: string;
 }
 
 const theme = createTheme({

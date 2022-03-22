@@ -94,7 +94,7 @@ const ExtendedNav = () => {
       width: document.body.clientWidth,
       height: document.body.clientHeight,
     });
-  }, [wrapStyle]);
+  }, []);
 
   const style = useStyles();
 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1647867607876" clover="3.2.0">
-  <project timestamp="1647867607876" name="All files">
-    <metrics statements="345" coveredstatements="116" conditionals="56" coveredconditionals="14" methods="88" coveredmethods="28" elements="489" coveredelements="158" complexity="0" loc="345" ncloc="345" packages="30" files="52" classes="52"/>
+<coverage generated="1647945182306" clover="3.2.0">
+  <project timestamp="1647945182306" name="All files">
+    <metrics statements="346" coveredstatements="205" conditionals="56" coveredconditionals="24" methods="88" coveredmethods="54" elements="490" coveredelements="283" complexity="0" loc="346" ncloc="346" packages="30" files="52" classes="52"/>
     <package name="src">
       <metrics statements="12" coveredstatements="0" conditionals="10" coveredconditionals="0" methods="3" coveredmethods="0"/>
       <file name="App.tsx" path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/App.tsx">
@@ -27,35 +27,35 @@
       </file>
     </package>
     <package name="src.Pages.BookDetailPage">
-      <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="BookDetailPage.tsx" path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/Pages/BookDetailPage/BookDetailPage.tsx">
-        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="6" count="0" type="stmt"/>
-        <line num="7" count="0" type="stmt"/>
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
       </file>
     </package>
     <package name="src.Pages.EntrepreneurPage">
-      <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="EntrepreneurPage.tsx" path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/Pages/EntrepreneurPage/EntrepreneurPage.tsx">
-        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="10" count="0" type="stmt"/>
-        <line num="11" count="0" type="stmt"/>
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
       </file>
     </package>
     <package name="src.Pages.LandingPage">
-      <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="LandingPage.tsx" path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/Pages/LandingPage/LandingPage.tsx">
-        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="6" count="0" type="stmt"/>
-        <line num="7" count="0" type="stmt"/>
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
       </file>
     </package>
     <package name="src.Pages.LibraryPage">
-      <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="LibraryPage.tsx" path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/Pages/LibraryPage/LibraryPage.tsx">
-        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="8" count="0" type="stmt"/>
-        <line num="9" count="0" type="stmt"/>
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
       </file>
     </package>
     <package name="src.api">
@@ -65,16 +65,16 @@
       </file>
     </package>
     <package name="src.auth0">
-      <metrics statements="7" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <metrics statements="7" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
       <file name="auth0ProviderComponent.tsx" path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/auth0/auth0ProviderComponent.tsx">
-        <metrics statements="7" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
-        <line num="8" count="0" type="stmt"/>
-        <line num="9" count="0" type="stmt"/>
-        <line num="10" count="0" type="stmt"/>
-        <line num="11" count="0" type="stmt"/>
-        <line num="13" count="0" type="stmt"/>
+        <metrics statements="7" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="5" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
         <line num="14" count="0" type="stmt"/>
-        <line num="17" count="0" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
       </file>
     </package>
     <package name="src.components.atoms.Icons">
@@ -90,8 +90,8 @@
       </file>
       <file name="IconButtonComponent.tsx" path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/atoms/Icons/IconButtonComponent.tsx">
         <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
-        <line num="12" count="7" type="stmt"/>
-        <line num="13" count="21" type="stmt"/>
+        <line num="12" count="17" type="stmt"/>
+        <line num="13" count="356" type="stmt"/>
       </file>
     </package>
     <package name="src.components.atoms.Logo">
@@ -103,8 +103,8 @@
       </file>
       <file name="Logo.tsx" path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/atoms/Logo/Logo.tsx">
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="7" count="2" type="stmt"/>
-        <line num="8" count="2" type="stmt"/>
+        <line num="7" count="10" type="stmt"/>
+        <line num="8" count="20" type="stmt"/>
       </file>
     </package>
     <package name="src.components.atoms.Typography">
@@ -124,8 +124,8 @@
       </file>
       <file name="Typography.tsx" path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/atoms/Typography/Typography.tsx">
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="24" count="11" type="stmt"/>
-        <line num="25" count="89" type="stmt"/>
+        <line num="24" count="21" type="stmt"/>
+        <line num="25" count="884" type="stmt"/>
       </file>
     </package>
     <package name="src.components.molecules.AddButton">
@@ -142,9 +142,9 @@
       </file>
       <file name="AddButton.tsx" path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/molecules/AddButton/AddButton.tsx">
         <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="12" count="4" type="stmt"/>
-        <line num="24" count="4" type="stmt"/>
-        <line num="25" count="11" type="stmt"/>
+        <line num="13" count="13" type="stmt"/>
+        <line num="25" count="13" type="stmt"/>
+        <line num="26" count="161" type="stmt"/>
       </file>
     </package>
     <package name="src.components.molecules.Dropdown">
@@ -160,8 +160,8 @@
       </file>
       <file name="Dropdown.tsx" path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/molecules/Dropdown/Dropdown.tsx">
         <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
-        <line num="16" count="1" type="stmt"/>
-        <line num="34" count="1" type="stmt"/>
+        <line num="16" count="9" type="stmt"/>
+        <line num="34" count="9" type="stmt"/>
         <line num="35" count="2" type="stmt"/>
         <line num="36" count="2" type="stmt"/>
       </file>
@@ -181,10 +181,10 @@
       </file>
       <file name="IconWithTypography.tsx" path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/molecules/IconWithTypography/IconWithTypography.tsx">
         <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="27" count="5" type="stmt"/>
-        <line num="37" count="5" type="stmt"/>
-        <line num="38" count="16" type="stmt"/>
-        <line num="39" count="14" type="stmt"/>
+        <line num="27" count="15" type="stmt"/>
+        <line num="37" count="15" type="stmt"/>
+        <line num="38" count="351" type="stmt"/>
+        <line num="39" count="346" type="stmt"/>
       </file>
     </package>
     <package name="src.components.molecules.SearchBar">
@@ -196,14 +196,14 @@
       </file>
       <file name="SearchBar.tsx" path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/molecules/SearchBar/SearchBar.tsx">
         <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
-        <line num="6" count="1" type="stmt"/>
-        <line num="17" count="1" type="stmt"/>
-        <line num="25" count="1" type="stmt"/>
-        <line num="30" count="1" type="stmt"/>
-        <line num="31" count="2" type="stmt"/>
-        <line num="32" count="2" type="stmt"/>
-        <line num="33" count="2" type="stmt"/>
-        <line num="34" count="2" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
+        <line num="25" count="3" type="stmt"/>
+        <line num="30" count="3" type="stmt"/>
+        <line num="31" count="4" type="stmt"/>
+        <line num="32" count="4" type="stmt"/>
+        <line num="33" count="4" type="stmt"/>
+        <line num="34" count="4" type="stmt"/>
         <line num="46" count="1" type="stmt"/>
       </file>
     </package>
@@ -219,14 +219,14 @@
       </file>
       <file name="Banner.tsx" path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Banner/Banner.tsx">
         <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="11" count="1" type="stmt"/>
-        <line num="34" count="1" type="stmt"/>
-        <line num="43" count="1" type="stmt"/>
-        <line num="52" count="1" type="stmt"/>
-        <line num="57" count="1" type="stmt"/>
-        <line num="62" count="1" type="stmt"/>
-        <line num="64" count="1" type="stmt"/>
-        <line num="65" count="1" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="34" count="3" type="stmt"/>
+        <line num="43" count="3" type="stmt"/>
+        <line num="52" count="3" type="stmt"/>
+        <line num="57" count="3" type="stmt"/>
+        <line num="62" count="3" type="stmt"/>
+        <line num="64" count="3" type="stmt"/>
+        <line num="65" count="3" type="stmt"/>
       </file>
     </package>
     <package name="src.components.organisms.BookTab">
@@ -241,19 +241,19 @@
       </file>
       <file name="BookTab.tsx" path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/BookTab/BookTab.tsx">
         <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
-        <line num="12" count="2" type="stmt"/>
-        <line num="58" count="2" type="stmt"/>
-        <line num="66" count="2" type="stmt"/>
-        <line num="71" count="2" type="stmt"/>
-        <line num="72" count="5" type="stmt"/>
-        <line num="74" count="5" type="stmt"/>
+        <line num="12" count="4" type="stmt"/>
+        <line num="58" count="4" type="stmt"/>
+        <line num="66" count="4" type="stmt"/>
+        <line num="71" count="4" type="stmt"/>
+        <line num="72" count="11" type="stmt"/>
+        <line num="74" count="11" type="stmt"/>
         <line num="75" count="2" type="stmt"/>
-        <line num="78" count="5" type="stmt"/>
-        <line num="80" count="5" type="stmt"/>
+        <line num="78" count="11" type="stmt"/>
+        <line num="80" count="11" type="stmt"/>
       </file>
     </package>
     <package name="src.components.organisms.BookView">
-      <metrics statements="30" coveredstatements="17" conditionals="2" coveredconditionals="1" methods="8" coveredmethods="3"/>
+      <metrics statements="30" coveredstatements="23" conditionals="2" coveredconditionals="2" methods="8" coveredmethods="7"/>
       <file name="BookView.stories.tsx" path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/BookView/BookView.stories.tsx">
         <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="10" count="0" type="stmt"/>
@@ -263,32 +263,32 @@
         <line num="66" count="0" type="stmt"/>
       </file>
       <file name="BookView.tsx" path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/BookView/BookView.tsx">
-        <metrics statements="25" coveredstatements="17" conditionals="2" coveredconditionals="1" methods="7" coveredmethods="3"/>
-        <line num="29" count="1" type="stmt"/>
-        <line num="36" count="1" type="stmt"/>
-        <line num="43" count="1" type="stmt"/>
-        <line num="48" count="1" type="stmt"/>
-        <line num="52" count="1" type="stmt"/>
-        <line num="57" count="1" type="stmt"/>
-        <line num="58" count="2" type="stmt"/>
-        <line num="73" count="2" type="stmt"/>
-        <line num="75" count="2" type="stmt"/>
-        <line num="76" count="0" type="stmt"/>
-        <line num="79" count="2" type="stmt"/>
-        <line num="80" count="0" type="stmt"/>
-        <line num="83" count="2" type="stmt"/>
-        <line num="84" count="0" type="stmt"/>
-        <line num="85" count="0" type="stmt"/>
-        <line num="88" count="2" type="stmt"/>
-        <line num="89" count="2" type="stmt"/>
-        <line num="90" count="2" type="stmt"/>
+        <metrics statements="25" coveredstatements="23" conditionals="2" coveredconditionals="2" methods="7" coveredmethods="7"/>
+        <line num="29" count="3" type="stmt"/>
+        <line num="36" count="3" type="stmt"/>
+        <line num="43" count="3" type="stmt"/>
+        <line num="48" count="3" type="stmt"/>
+        <line num="52" count="3" type="stmt"/>
+        <line num="57" count="3" type="stmt"/>
+        <line num="58" count="8" type="stmt"/>
+        <line num="73" count="8" type="stmt"/>
+        <line num="75" count="8" type="stmt"/>
+        <line num="76" count="1" type="stmt"/>
+        <line num="79" count="8" type="stmt"/>
+        <line num="80" count="1" type="stmt"/>
+        <line num="83" count="8" type="stmt"/>
+        <line num="84" count="1" type="stmt"/>
+        <line num="85" count="1" type="stmt"/>
+        <line num="88" count="8" type="stmt"/>
+        <line num="89" count="6" type="stmt"/>
+        <line num="90" count="6" type="stmt"/>
         <line num="91" count="0" type="stmt"/>
         <line num="92" count="0" type="stmt"/>
-        <line num="94" count="2" type="stmt"/>
-        <line num="98" count="2" type="cond" truecount="1" falsecount="1"/>
-        <line num="99" count="0" type="stmt"/>
-        <line num="102" count="2" type="stmt"/>
-        <line num="156" count="0" type="stmt"/>
+        <line num="94" count="6" type="stmt"/>
+        <line num="98" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="99" count="1" type="stmt"/>
+        <line num="102" count="8" type="stmt"/>
+        <line num="156" count="1" type="stmt"/>
       </file>
     </package>
     <package name="src.components.organisms.Card">
@@ -307,39 +307,39 @@
       </file>
       <file name="Card.tsx" path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Card/Card.tsx">
         <metrics statements="29" coveredstatements="17" conditionals="12" coveredconditionals="9" methods="8" coveredmethods="3"/>
-        <line num="29" count="2" type="stmt"/>
-        <line num="60" count="2" type="stmt"/>
-        <line num="161" count="2" type="stmt"/>
-        <line num="162" count="6" type="stmt"/>
-        <line num="164" count="5" type="stmt"/>
-        <line num="179" count="5" type="stmt"/>
-        <line num="180" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="181" count="0" type="stmt"/>
-        <line num="183" count="0" type="stmt"/>
-        <line num="185" count="0" type="stmt"/>
-        <line num="188" count="5" type="stmt"/>
-        <line num="189" count="5" type="stmt"/>
-        <line num="190" count="5" type="stmt"/>
-        <line num="191" count="0" type="stmt"/>
+        <line num="30" count="7" type="stmt"/>
+        <line num="61" count="7" type="stmt"/>
+        <line num="162" count="7" type="stmt"/>
+        <line num="163" count="129" type="stmt"/>
+        <line num="165" count="125" type="stmt"/>
+        <line num="180" count="125" type="stmt"/>
+        <line num="181" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="182" count="0" type="stmt"/>
+        <line num="184" count="0" type="stmt"/>
+        <line num="186" count="0" type="stmt"/>
+        <line num="189" count="125" type="stmt"/>
+        <line num="190" count="95" type="stmt"/>
+        <line num="191" count="95" type="stmt"/>
         <line num="192" count="0" type="stmt"/>
-        <line num="194" count="5" type="stmt"/>
-        <line num="197" count="5" type="stmt"/>
-        <line num="198" count="0" type="stmt"/>
-        <line num="201" count="5" type="stmt"/>
-        <line num="202" count="0" type="stmt"/>
-        <line num="208" count="5" type="cond" truecount="1" falsecount="1"/>
-        <line num="209" count="0" type="stmt"/>
-        <line num="213" count="0" type="stmt"/>
-        <line num="218" count="5" type="stmt"/>
-        <line num="221" count="5" type="stmt"/>
-        <line num="224" count="5" type="stmt"/>
-        <line num="226" count="5" type="stmt"/>
-        <line num="263" count="0" type="stmt"/>
-        <line num="273" count="0" type="stmt"/>
+        <line num="193" count="0" type="stmt"/>
+        <line num="195" count="95" type="stmt"/>
+        <line num="198" count="125" type="stmt"/>
+        <line num="199" count="0" type="stmt"/>
+        <line num="202" count="125" type="stmt"/>
+        <line num="203" count="0" type="stmt"/>
+        <line num="209" count="125" type="cond" truecount="1" falsecount="1"/>
+        <line num="210" count="0" type="stmt"/>
+        <line num="214" count="0" type="stmt"/>
+        <line num="219" count="125" type="stmt"/>
+        <line num="222" count="125" type="stmt"/>
+        <line num="225" count="125" type="stmt"/>
+        <line num="227" count="125" type="stmt"/>
+        <line num="264" count="0" type="stmt"/>
+        <line num="274" count="0" type="stmt"/>
       </file>
     </package>
     <package name="src.components.organisms.DisplayCard">
-      <metrics statements="25" coveredstatements="0" conditionals="8" coveredconditionals="0" methods="9" coveredmethods="0"/>
+      <metrics statements="26" coveredstatements="20" conditionals="8" coveredconditionals="5" methods="9" coveredmethods="8"/>
       <file name="DisplayCard.stories.tsx" path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/DisplayCard/DisplayCard.stories.tsx">
         <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="7" count="0" type="stmt"/>
@@ -349,31 +349,32 @@
         <line num="38" count="0" type="stmt"/>
       </file>
       <file name="DisplayCard.tsx" path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/DisplayCard/DisplayCard.tsx">
-        <metrics statements="20" coveredstatements="0" conditionals="8" coveredconditionals="0" methods="8" coveredmethods="0"/>
-        <line num="30" count="0" type="stmt"/>
-        <line num="47" count="0" type="stmt"/>
-        <line num="56" count="0" type="stmt"/>
-        <line num="67" count="0" type="stmt"/>
-        <line num="68" count="0" type="stmt"/>
-        <line num="70" count="0" type="stmt"/>
-        <line num="71" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="72" count="0" type="stmt"/>
-        <line num="74" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="75" count="0" type="stmt"/>
-        <line num="76" count="0" type="stmt"/>
-        <line num="80" count="0" type="stmt"/>
-        <line num="81" count="0" type="stmt"/>
-        <line num="83" count="0" type="stmt"/>
-        <line num="84" count="0" type="cond" truecount="0" falsecount="2"/>
+        <metrics statements="21" coveredstatements="20" conditionals="8" coveredconditionals="5" methods="8" coveredmethods="8"/>
+        <line num="30" count="3" type="stmt"/>
+        <line num="47" count="3" type="stmt"/>
+        <line num="56" count="3" type="stmt"/>
+        <line num="67" count="3" type="stmt"/>
+        <line num="68" count="20" type="stmt"/>
+        <line num="70" count="17" type="stmt"/>
+        <line num="71" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="72" count="11" type="stmt"/>
+        <line num="74" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="75" count="11" type="stmt"/>
+        <line num="76" count="66" type="stmt"/>
+        <line num="80" count="17" type="stmt"/>
+        <line num="81" count="17" type="stmt"/>
+        <line num="83" count="17" type="stmt"/>
+        <line num="84" count="1" type="cond" truecount="1" falsecount="1"/>
         <line num="85" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="88" count="0" type="stmt"/>
-        <line num="89" count="0" type="stmt"/>
-        <line num="98" count="0" type="stmt"/>
-        <line num="108" count="0" type="stmt"/>
+        <line num="87" count="1" type="stmt"/>
+        <line num="90" count="17" type="stmt"/>
+        <line num="91" count="17" type="stmt"/>
+        <line num="100" count="118" type="stmt"/>
+        <line num="111" count="1" type="stmt"/>
       </file>
     </package>
     <package name="src.components.organisms.ExtendedNav">
-      <metrics statements="18" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="5" coveredmethods="0"/>
+      <metrics statements="18" coveredstatements="13" conditionals="2" coveredconditionals="0" methods="5" coveredmethods="3"/>
       <file name="ExtendedNav.stories.tsx" path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/ExtendedNav/ExtendedNav.stories.tsx">
         <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="6" count="0" type="stmt"/>
@@ -382,21 +383,21 @@
         <line num="34" count="0" type="stmt"/>
       </file>
       <file name="ExtendedNav.tsx" path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/ExtendedNav/ExtendedNav.tsx">
-        <metrics statements="14" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="0"/>
-        <line num="10" count="0" type="stmt"/>
-        <line num="25" count="0" type="stmt"/>
-        <line num="75" count="0" type="stmt"/>
-        <line num="86" count="0" type="stmt"/>
-        <line num="87" count="0" type="stmt"/>
-        <line num="92" count="0" type="stmt"/>
-        <line num="93" count="0" type="stmt"/>
-        <line num="99" count="0" type="stmt"/>
-        <line num="101" count="0" type="stmt"/>
-        <line num="103" count="0" type="stmt"/>
-        <line num="105" count="0" type="stmt"/>
+        <metrics statements="14" coveredstatements="13" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="3"/>
+        <line num="10" count="9" type="stmt"/>
+        <line num="25" count="9" type="stmt"/>
+        <line num="75" count="9" type="stmt"/>
+        <line num="86" count="9" type="stmt"/>
+        <line num="87" count="3" type="stmt"/>
+        <line num="92" count="2" type="stmt"/>
+        <line num="93" count="1" type="stmt"/>
+        <line num="99" count="2" type="stmt"/>
+        <line num="101" count="2" type="stmt"/>
+        <line num="103" count="2" type="stmt"/>
+        <line num="105" count="2" type="stmt"/>
         <line num="106" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="109" count="0" type="stmt"/>
-        <line num="124" count="0" type="stmt"/>
+        <line num="109" count="2" type="stmt"/>
+        <line num="124" count="36" type="stmt"/>
       </file>
     </package>
     <package name="src.components.organisms.Footer">
@@ -410,20 +411,20 @@
       </file>
       <file name="Footer.tsx" path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Footer/Footer.tsx">
         <metrics statements="14" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
-        <line num="10" count="1" type="stmt"/>
-        <line num="32" count="1" type="stmt"/>
-        <line num="34" count="1" type="stmt"/>
-        <line num="36" count="1" type="stmt"/>
-        <line num="47" count="1" type="stmt"/>
-        <line num="57" count="1" type="stmt"/>
-        <line num="62" count="1" type="stmt"/>
-        <line num="68" count="1" type="stmt"/>
-        <line num="74" count="1" type="stmt"/>
-        <line num="82" count="1" type="stmt"/>
-        <line num="83" count="1" type="stmt"/>
-        <line num="85" count="1" type="stmt"/>
-        <line num="86" count="1" type="stmt"/>
-        <line num="89" count="1" type="stmt"/>
+        <line num="10" count="8" type="stmt"/>
+        <line num="32" count="8" type="stmt"/>
+        <line num="34" count="8" type="stmt"/>
+        <line num="36" count="8" type="stmt"/>
+        <line num="47" count="8" type="stmt"/>
+        <line num="57" count="8" type="stmt"/>
+        <line num="62" count="8" type="stmt"/>
+        <line num="68" count="8" type="stmt"/>
+        <line num="74" count="8" type="stmt"/>
+        <line num="82" count="8" type="stmt"/>
+        <line num="83" count="8" type="stmt"/>
+        <line num="85" count="8" type="stmt"/>
+        <line num="86" count="8" type="stmt"/>
+        <line num="89" count="8" type="stmt"/>
       </file>
     </package>
     <package name="src.components.organisms.FooterNav">
@@ -441,16 +442,16 @@
       </file>
       <file name="FooterNav.tsx" path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/FooterNav/FooterNav.tsx">
         <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
-        <line num="10" count="2" type="stmt"/>
-        <line num="32" count="2" type="stmt"/>
-        <line num="37" count="2" type="stmt"/>
-        <line num="41" count="2" type="stmt"/>
-        <line num="42" count="6" type="stmt"/>
-        <line num="47" count="26" type="stmt"/>
+        <line num="10" count="9" type="stmt"/>
+        <line num="32" count="9" type="stmt"/>
+        <line num="37" count="9" type="stmt"/>
+        <line num="41" count="9" type="stmt"/>
+        <line num="42" count="27" type="stmt"/>
+        <line num="47" count="117" type="stmt"/>
       </file>
     </package>
     <package name="src.components.organisms.Header">
-      <metrics statements="30" coveredstatements="0" conditionals="18" coveredconditionals="0" methods="8" coveredmethods="0"/>
+      <metrics statements="30" coveredstatements="13" conditionals="18" coveredconditionals="4" methods="8" coveredmethods="2"/>
       <file name="Header.stories.tsx" path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.stories.tsx">
         <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="6" count="0" type="stmt"/>
@@ -459,33 +460,33 @@
         <line num="36" count="0" type="stmt"/>
       </file>
       <file name="Header.tsx" path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Header/Header.tsx">
-        <metrics statements="26" coveredstatements="0" conditionals="18" coveredconditionals="0" methods="7" coveredmethods="0"/>
-        <line num="21" count="0" type="stmt"/>
-        <line num="38" count="0" type="stmt"/>
-        <line num="84" count="0" type="stmt"/>
-        <line num="85" count="0" type="stmt"/>
-        <line num="86" count="0" type="stmt"/>
-        <line num="87" count="0" type="stmt"/>
-        <line num="90" count="0" type="stmt"/>
-        <line num="94" count="0" type="stmt"/>
-        <line num="96" count="0" type="stmt"/>
-        <line num="98" count="0" type="stmt"/>
+        <metrics statements="26" coveredstatements="13" conditionals="18" coveredconditionals="4" methods="7" coveredmethods="2"/>
+        <line num="21" count="8" type="stmt"/>
+        <line num="38" count="9" type="stmt"/>
+        <line num="84" count="8" type="stmt"/>
+        <line num="85" count="11" type="stmt"/>
+        <line num="86" count="11" type="stmt"/>
+        <line num="87" count="11" type="stmt"/>
+        <line num="90" count="11" type="stmt"/>
+        <line num="94" count="11" type="stmt"/>
+        <line num="96" count="11" type="stmt"/>
+        <line num="98" count="11" type="stmt"/>
         <line num="99" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="101" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="102" count="0" type="stmt"/>
         <line num="104" count="0" type="stmt"/>
-        <line num="108" count="0" type="stmt"/>
+        <line num="108" count="11" type="stmt"/>
         <line num="109" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="111" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="112" count="0" type="stmt"/>
         <line num="114" count="0" type="stmt"/>
-        <line num="118" count="0" type="stmt"/>
-        <line num="119" count="0" type="stmt"/>
+        <line num="118" count="11" type="stmt"/>
+        <line num="119" count="11" type="stmt"/>
         <line num="140" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="156" count="0" type="stmt"/>
         <line num="157" count="0" type="stmt"/>
-        <line num="183" count="0" type="stmt"/>
+        <line num="158" count="0" type="stmt"/>
         <line num="184" count="0" type="stmt"/>
+        <line num="185" count="0" type="stmt"/>
       </file>
     </package>
     <package name="src.components.organisms.Tab">
@@ -500,71 +501,71 @@
       </file>
       <file name="LabTabs.tsx" path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/organisms/Tab/LabTabs.tsx">
         <metrics statements="20" coveredstatements="17" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="7"/>
-        <line num="14" count="1" type="stmt"/>
-        <line num="35" count="1" type="stmt"/>
-        <line num="43" count="1" type="stmt"/>
-        <line num="53" count="1" type="stmt"/>
-        <line num="54" count="2" type="stmt"/>
-        <line num="55" count="2" type="stmt"/>
-        <line num="72" count="2" type="stmt"/>
-        <line num="73" count="1" type="stmt"/>
-        <line num="74" count="1" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="35" count="3" type="stmt"/>
+        <line num="43" count="3" type="stmt"/>
+        <line num="53" count="3" type="stmt"/>
+        <line num="54" count="4" type="stmt"/>
+        <line num="55" count="4" type="stmt"/>
+        <line num="72" count="4" type="stmt"/>
+        <line num="73" count="3" type="stmt"/>
+        <line num="74" count="3" type="stmt"/>
         <line num="75" count="0" type="stmt"/>
         <line num="76" count="0" type="stmt"/>
-        <line num="78" count="1" type="stmt"/>
-        <line num="81" count="2" type="stmt"/>
+        <line num="78" count="3" type="stmt"/>
+        <line num="81" count="4" type="stmt"/>
         <line num="82" count="1" type="stmt"/>
-        <line num="85" count="2" type="stmt"/>
-        <line num="87" count="2" type="stmt"/>
-        <line num="122" count="2" type="stmt"/>
-        <line num="124" count="2" type="stmt"/>
-        <line num="142" count="2" type="stmt"/>
+        <line num="85" count="4" type="stmt"/>
+        <line num="87" count="4" type="stmt"/>
+        <line num="122" count="4" type="stmt"/>
+        <line num="124" count="4" type="stmt"/>
+        <line num="142" count="4" type="stmt"/>
         <line num="144" count="0" type="stmt"/>
       </file>
     </package>
     <package name="src.components.templates.BookDetail">
-      <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="BookDetail.tsx" path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/templates/BookDetail/BookDetail.tsx">
-        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="9" count="0" type="stmt"/>
-        <line num="58" count="0" type="stmt"/>
-        <line num="59" count="0" type="stmt"/>
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="58" count="2" type="stmt"/>
+        <line num="59" count="2" type="stmt"/>
       </file>
     </package>
     <package name="src.components.templates.Entreprenuer">
-      <metrics statements="9" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="Entreprenuer.tsx" path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/templates/Entreprenuer/Entreprenuer.tsx">
-        <metrics statements="9" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="14" count="0" type="stmt"/>
-        <line num="31" count="0" type="stmt"/>
-        <line num="38" count="0" type="stmt"/>
-        <line num="45" count="0" type="stmt"/>
-        <line num="52" count="0" type="stmt"/>
-        <line num="59" count="0" type="stmt"/>
-        <line num="63" count="0" type="stmt"/>
-        <line num="64" count="0" type="stmt"/>
-        <line num="65" count="0" type="stmt"/>
+        <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="38" count="2" type="stmt"/>
+        <line num="45" count="2" type="stmt"/>
+        <line num="52" count="2" type="stmt"/>
+        <line num="59" count="2" type="stmt"/>
+        <line num="63" count="2" type="stmt"/>
+        <line num="64" count="4" type="stmt"/>
+        <line num="65" count="2" type="stmt"/>
       </file>
     </package>
     <package name="src.components.templates.LandingTemplate">
-      <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="LandingTemplate.tsx" path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/templates/LandingTemplate/LandingTemplate.tsx">
-        <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="9" count="0" type="stmt"/>
-        <line num="16" count="0" type="stmt"/>
-        <line num="17" count="0" type="stmt"/>
-        <line num="18" count="0" type="stmt"/>
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
       </file>
     </package>
     <package name="src.components.templates.MyLibrary">
-      <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="MyLibrary.tsx" path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/components/templates/MyLibrary/MyLibrary.tsx">
-        <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="13" count="0" type="stmt"/>
-        <line num="30" count="0" type="stmt"/>
-        <line num="41" count="0" type="stmt"/>
-        <line num="42" count="0" type="stmt"/>
-        <line num="43" count="0" type="stmt"/>
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="30" count="2" type="stmt"/>
+        <line num="41" count="2" type="stmt"/>
+        <line num="42" count="2" type="stmt"/>
+        <line num="43" count="2" type="stmt"/>
       </file>
     </package>
     <package name="src.components.theme">
@@ -575,22 +576,22 @@
       </file>
     </package>
     <package name="src.data">
-      <metrics statements="4" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       <file name="Constants.tsx" path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/data/Constants.tsx">
         <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-        <line num="1" count="4" type="stmt"/>
+        <line num="1" count="12" type="stmt"/>
       </file>
       <file name="ExtendedNavData.tsx" path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/data/ExtendedNavData.tsx">
-        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-        <line num="20" count="0" type="stmt"/>
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="20" count="9" type="stmt"/>
       </file>
       <file name="FooterNav.tsx" path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/data/FooterNav.tsx">
         <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-        <line num="1" count="2" type="stmt"/>
+        <line num="1" count="9" type="stmt"/>
       </file>
       <file name="Library.tsx" path="/home/mdsame/Documents/zemoso-training/react/blinkist/MyApp/blinkist/src/data/Library.tsx">
-        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-        <line num="13" count="0" type="stmt"/>
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="13" count="3" type="stmt"/>
       </file>
     </package>
   </project>

@@ -18,7 +18,9 @@ const LandingTemplate = (props: LandingTemplateProps) => {
   return (
     <>
       {props.header}
-      <div className={style.root}>{props.content}</div>
+      <div className={style.root} data-testid="cover">
+        {props.content}
+      </div>
       {props.footer}
     </>
   );

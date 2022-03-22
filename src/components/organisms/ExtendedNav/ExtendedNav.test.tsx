@@ -1,3 +1,15 @@
 import { render, screen } from "@testing-library/react";
-import { Router } from "react-router-dom";
+import { BrowserRouter } from "react-router-dom";
 import ExtendedNav from "./ExtendedNav";
+
+describe("Extended Nav test", () => {
+  test("should display", () => {
+    render(
+      <BrowserRouter>
+        <ExtendedNav />
+      </BrowserRouter>
+    );
+    const element = screen.getByText("Entreprenuership");
+    expect(element).toBeInTheDocument();
+  });
+});

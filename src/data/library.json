@@ -128,16 +128,16 @@
     },
     {
       "id": 10,
-      "title": "Beyond Entrepreneurship",
-      "author": "Jim Collins & Bill Lazier",
-      "time": "13-minute read",
-      "read": "1.9k reads",
-      "image": "images/coverImages/beyondEntrepreneurship.svg",
+      "title": "",
+      "author": "",
+      "image": "",
+      "time": "",
+      "read": "",
       "state": {
-        "isFinished": false,
-        "isTrending": true,
-        "justAdded": false,
-        "isFeatured": true
+        "isFinished": true,
+        "isTrending": false,
+        "isFeatured": false,
+        "justAdded": false
       }
     },
     {

@@ -4,6 +4,7 @@ interface ButtonProps {
   children: React.ReactNode;
   style?: React.CSSProperties;
   className?: string;
+  role?: string;
   onClick?: () => void;
   onMouseEnter?: () => void;
   onMouseLeave?: () => void;

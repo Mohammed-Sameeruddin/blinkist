@@ -75,7 +75,7 @@ const DisplayCard = (props: CardProps) => {
         ? setShowData(showData.filter(item => item.state.isFeatured))
         : setShowData(showData.filter(item => item.state.justAdded));
     }
-  }, [props.state, showData]);
+  }, []);
 
   const navigate = useNavigate();
   const { isAuthenticated } = useAuth0();
@@ -83,6 +83,8 @@ const DisplayCard = (props: CardProps) => {
   const showBookDetails = (index: number) => {
     if (index === 1) {
       isAuthenticated ? navigate("/bookdetails") : navigate("/");
+    } else {
+      navigate("/");
     }
   };
   const style = useStyles();
@@ -97,6 +99,7 @@ const DisplayCard = (props: CardProps) => {
             .map((book, index) => {
               return (
                 <Card
+                  role={`card-id-${index}`}
                   key={index}
                   className={style.card}
                   title={book.title}
